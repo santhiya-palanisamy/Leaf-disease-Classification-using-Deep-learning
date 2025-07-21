@@ -1,4 +1,4 @@
-# Leaf-disease-Classification-using-Deep-learning-using-
+# Leaf-disease-Classification-using-Deep-learning
 
 Welcome to the Leaf Disease Classification System! 🌿🔍
 
